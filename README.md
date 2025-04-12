@@ -5,7 +5,7 @@
 ### Backend
 - **Python**: Основной язык для backend разработки
 - **FastAPI**: Для создания RESTful API
-- **SQLAlchemy + Alembic**: Работа с базами данных и миграции
+- **SQLAlchemy + Alembic**: Работа с базами данных и миграции (Postgresql, Sqlite)
 - **Pydantic**: Валидация данных
 - **JWT (Authx)**: Аутентификация и авторизация
 - **Telegram Widget Login**: Интеграция аутентификации через Telegram
