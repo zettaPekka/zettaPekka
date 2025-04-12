@@ -10,7 +10,7 @@
 - **JWT (Authx)**: Аутентификация и авторизация
 - **Telegram Widget Login**: Интеграция аутентификации через Telegram
 
-### Frontend (базовые навыки)
+### Frontend (базовые навыки) + помощь ИИ для верстки
 - HTML
 - CSS
 - JavaScript
