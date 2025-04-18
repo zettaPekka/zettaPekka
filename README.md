@@ -13,8 +13,8 @@
 
 ### Frontend (базовые навыки) + помощь ИИ для верстки
 - HTML (Jinja)
-- CSS
-- JavaScript
+- CSS (flex, grid, keyframes)
+- JavaScript (DOM, Promises, fetch)
   
 
 ### Telegram разработка
