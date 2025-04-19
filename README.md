@@ -12,7 +12,7 @@
 - **Telegram Widget Login**: Интеграция аутентификации через Telegram
 
 ### Frontend (базовые навыки) + помощь ИИ для верстки
-- HTML (Jinja)
+- HTML (Jinja2)
 - CSS (flex, grid, keyframes)
 - JavaScript (DOM, Promises, fetch)
   
