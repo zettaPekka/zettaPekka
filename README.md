@@ -13,7 +13,7 @@
 
 ### Frontend (базовые навыки) + помощь ИИ для верстки
 - HTML (Jinja2)
-- CSS (flex, grid, keyframes)
+- CSS (grid, @keyframes, @media)
 - JavaScript (DOM, Promises, fetch)
   
 
