@@ -7,7 +7,7 @@
 - **FastAPI**: Для создания RESTful API
 - **SQLAlchemy + Alembic**: Работа с базами данных и миграции (Postgresql, Sqlite)
 - **RabbitMQ**: Брокер сообщений
-- **Redis (aioredis)**: Кеширование
+- **Redis (RQ, aioredis)**: Кеширование
 - **Pydantic**: Валидация данных
 - **JWT (Authx)**: Аутентификация и авторизация
 - **Telegram Widget Login**: Интеграция аутентификации через Telegram
