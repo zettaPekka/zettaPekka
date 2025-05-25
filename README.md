@@ -4,7 +4,7 @@
 
 ### Backend
 - **Python (ООП, асинхронность)**: Основной язык для backend разработки
-- **FastAPI**: Для создания RESTful API
+- **FastAPI**: REST API, WebSockets
 - **SQLAlchemy + Alembic**: Работа с базами данных и миграции (Postgresql, Sqlite)
 - **RabbitMQ**: Брокер сообщений
 - **Redis (RQ, aioredis)**: Кеширование
