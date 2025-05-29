@@ -26,7 +26,7 @@
 
 ### Другие навыки
 - Парсинг данных (BeautifulSoup4, Selenium)
-- Docker контейнеризация
-- Интеграция сторонних API (MistralAI, Open Router, ЮКасса, Vosk и др.)
-- Работа с платежными системами (ЮКасса, Telegram Stars)
+- Небольшой опыт Docker контейнеризации
+- Интеграция сторонних API (MistralAI, Open Router, ЮКасса и др.)
+- Работа с платежными системами (ЮКасса, Telegram Stars, Cryptobot)
 - Стремлюсь к чистому коду с принципами SOLID DRY KISS YAGNI BDUF
