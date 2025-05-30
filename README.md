@@ -1,4 +1,4 @@
-# Backend Developer
+# Python Developer
 
 ## 🛠 Стек
 
