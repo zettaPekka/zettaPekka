@@ -1,5 +1,7 @@
 # Python Developer
 
+![GIF](https://i.ibb.co/FkgYMW5y/image.gif)
+
 ## 🛠 Стек
 
 ### Backend
