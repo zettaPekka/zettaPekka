@@ -13,9 +13,8 @@
 - **Pydantic**: Валидация данных
 - **JWT (Authx)**: Аутентификация и авторизация
 - **Aiohttp** - асинхронные запросы
-- **Telegram Widget Login**: Интеграция аутентификации через Telegram
 
-### Frontend (базовые навыки) + помощь ИИ для верстки
+### Frontend (базовые навыки)
 - HTML (Семантика, Jinja2)
 - CSS (grid, @keyframes, @media)
 - JavaScript (DOM, Promises, fetch)
@@ -28,7 +27,7 @@
 
 ### Другие навыки
 - Парсинг данных (BeautifulSoup4, Selenium)
-- Небольшой опыт Docker контейнеризации
+- Небольшой опыт Docker контейнеризации и контроля версий с GIT
 - Интеграция сторонних API (MistralAI, Open Router, ЮКасса и др.)
-- Работа с платежными системами (ЮКасса, Telegram Stars, Cryptobot)
+- Работа с платежными системами
 - Стремлюсь к чистому коду с принципами SOLID DRY KISS YAGNI BDUF
