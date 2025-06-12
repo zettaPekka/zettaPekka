@@ -1,6 +1,6 @@
 # Python Developer
 
-![GIF](https://i.ibb.co/rRbGDPdY/e539f5a9902ec0c095c1df158e980800a573a9d2d3f6b177db0fa0c29fe588db.gif)
+![GIF](https://raw.githubusercontent.com/zettaPekka/GitHubImages/refs/heads/main/IMG_20250612_202236_695.jpg)
 
 ## 🛠 Стек
 
