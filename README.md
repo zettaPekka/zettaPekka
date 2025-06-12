@@ -2,6 +2,8 @@
 
 ![GIF](https://raw.githubusercontent.com/zettaPekka/GitHubImages/refs/heads/main/IMG_20250612_202236_695.jpg)
 
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/zettapekka)
+
 ## 🛠 Стек
 
 ### Backend
