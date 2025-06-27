@@ -17,9 +17,9 @@
 - **Aiohttp** - асинхронные запросы
 
 ### Frontend (базовые навыки)
-- HTML (Семантика, Jinja2)
-- CSS (grid, @keyframes, @media)
-- JavaScript (DOM, Promises, fetch)
+- HTML (Jinja2)
+- CSS/SCSS
+- JavaScript
   
 
 ### Telegram разработка
