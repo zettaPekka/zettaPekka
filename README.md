@@ -10,7 +10,7 @@
 - **Python (ООП, асинхронность)**: Основной язык для разработки
 - **FastAPI**: REST API, WebSockets
 - **SQLAlchemy + Alembic**: Работа с базой данных и миграции (Postgresql, Sqlite)
-- **RabbitMQ**: Брокер сообщений
+- **RabbitMQ (Faststream, pika)**: Брокер сообщений
 - **Redis (RQ, aioredis)**: Кеширование
 - **Pydantic**: Валидация данных
 - **JWT (Authx)**: Аутентификация и авторизация
