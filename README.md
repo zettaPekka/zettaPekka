@@ -11,7 +11,7 @@
 - **FastAPI**: REST API, WebSockets
 - **SQLAlchemy + Alembic**: Работа с базой данных и миграции (Postgresql, Sqlite)
 - **RabbitMQ (Faststream, pika)**: Брокер сообщений
-- **Redis (RQ, aioredis)**: Кеширование
+- **Redis (RQ/ARQ, aioredis)**: Кеширование
 - **Pydantic**: Валидация данных
 - **JWT (Authx)**: Аутентификация и авторизация
 - **Aiohttp** - асинхронные запросы
