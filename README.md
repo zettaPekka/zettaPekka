@@ -11,16 +11,14 @@
 - **FastAPI**: REST API, WebSockets
 - **SQLAlchemy + Alembic**: Работа с базой данных и миграции (Postgresql, Sqlite)
 - **RabbitMQ (Faststream, pika)**: Брокер сообщений
-- **Redis (RQ/ARQ, aioredis)**: Кеширование
+- **Redis (RQ/ARQ, aioredis)**: Кеширование, отложенные таски
 - **Pydantic**: Валидация данных
 - **JWT (Authx)**: Аутентификация и авторизация
-- **Aiohttp** - асинхронные запросы
 
 ### Frontend (базовые навыки)
 - HTML (Jinja2)
 - CSS/SCSS
 - JavaScript
-  
 
 ### Telegram разработка
 - **Aiogram**: Профессиональная разработка Telegram ботов
