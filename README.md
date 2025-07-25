@@ -1,8 +1,10 @@
-# Python Developer
+<h1 align="center">
+  <a href="https://github.com/hexvel">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=26&pause=1000&color=B869F7&center=true&vCenter=true&width=435&lines=PYTHON+DEVELOPER" alt="Typing SVG" />
+  </a>
+</h1>
 
 ![GIF](https://raw.githubusercontent.com/zettaPekka/GitHubImages/refs/heads/main/IMG_20250612_202236_695.jpg)
-
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/zettapekka)
 
 ## 🛠 Стек
 
