@@ -1,10 +1,10 @@
+<p align='center'><img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="99" height="99" />&nbsp;&nbsp;</p>
+
 <h1 align="center">
   <a href="https://github.com/hexvel">
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=26&pause=1000&color=B869F7&center=true&vCenter=true&width=435&lines=SOFTWARE+DEVELOPER" alt="Typing SVG" />
   </a>
 </h1>
-
-![GIF](https://raw.githubusercontent.com/zettaPekka/GitHubImages/refs/heads/main/IMG_20250612_202236_695.jpg)
 
 ## 🛠 Стек
 
