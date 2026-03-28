@@ -29,7 +29,6 @@
 
 ### Другие навыки
 - Парсинг данных (BeautifulSoup4, Selenium, playwright)
-- Опыт в создании ботов для Max (aiomax)
 - Небольшой опыт Docker контейнеризации и контроля версий с GIT
 - Интеграция сторонних API и постбеков (MistralAI, Open Router, ЮКасса, Pocket Option и др.)
 - Работа с платежными системами
