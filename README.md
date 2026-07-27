@@ -29,7 +29,7 @@
 
 ### Другие навыки
 - Парсинг данных (BeautifulSoup4, Selenium, playwright)
-- Небольшой опыт Docker контейнеризации и контроля версий с GIT
+- Опыт работы с Docker и контроля версий с GIT
 - Интеграция сторонних API и постбеков (MistralAI, Open Router, ЮКасса, Pocket Option и др.)
 - Работа с платежными системами
 - Стремлюсь к чистому коду с принципами SOLID DRY KISS YAGNI BDUF 
