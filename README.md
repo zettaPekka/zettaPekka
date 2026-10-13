@@ -1,4 +1,4 @@
-<p align='center'><img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="99" height="99" />&nbsp;&nbsp;</p>
+
 
 <h1 align="center">
   <a href="https://github.com/hexvel">
