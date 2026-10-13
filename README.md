@@ -1,9 +1,9 @@
 
 
 <h1 align="center">
-  <a>
+  <p>
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=26&pause=1000&color=B869F7&center=true&vCenter=true&width=435&lines=SOFTWARE+DEVELOPER" alt="Typing SVG" />
-  </a>
+  </p>
 </h1>
 
 ## 🛠 Стек
